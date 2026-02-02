@@ -13,3 +13,8 @@ paste the karabiner.json
 In finder:
 In the menu bar → View → Show Path Bar (or press ⌥ Option + ⌘ Command + P).
 Copy Current Folder Path = Press ⌥ Option + ⌘ Command + C → copies the full path to the clipboard.
+
+
+## Use nano editor 
+
+git config --global core.editor "nano"
